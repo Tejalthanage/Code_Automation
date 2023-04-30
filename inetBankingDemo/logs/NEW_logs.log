@@ -1,0 +1,90 @@
+[INFO ] 2023-02-21 12:18:18.028 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 12:18:23.221 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 12:18:23.253 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 12:18:23.350 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 12:18:23.508 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 12:18:25.259 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 12:18:30.436 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 12:18:30.540 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 12:21:53.121 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 12:21:57.744 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 12:21:57.770 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 12:21:57.860 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 12:21:58.023 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 12:21:59.779 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 12:22:06.299 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 12:22:06.412 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 12:24:32.827 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 12:24:38.145 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 12:24:38.179 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 12:24:38.361 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 12:24:38.518 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 12:24:40.296 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 12:24:46.866 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 12:24:46.993 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 13:05:37.767 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:05:43.309 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:05:43.345 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:05:43.442 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:05:43.598 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:05:46.471 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:05:51.543 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 13:05:51.631 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 13:13:07.625 [main] TC_001_Login - url is open
+[INFO ] 2023-02-21 13:13:15.469 [main] TC_001_Login - URL is Launched Successfully
+[INFO ] 2023-02-21 13:13:15.511 [main] TC_001_Login - Entering username 
+[INFO ] 2023-02-21 13:13:15.599 [main] TC_001_Login - Enter Password
+[INFO ] 2023-02-21 13:13:15.665 [main] TC_001_Login - Submit button is clicked
+[INFO ] 2023-02-21 13:15:59.152 [main] TC_001_Login - url is open
+[INFO ] 2023-02-21 13:16:06.817 [main] TC_001_Login - URL is Launched Successfully
+[INFO ] 2023-02-21 13:16:06.847 [main] TC_001_Login - Entering username 
+[INFO ] 2023-02-21 13:16:06.949 [main] TC_001_Login - Enter Password
+[INFO ] 2023-02-21 13:16:07.084 [main] TC_001_Login - Submit button is clicked
+[INFO ] 2023-02-21 13:17:23.817 [main] TC_001_Login - url is open
+[INFO ] 2023-02-21 13:17:32.639 [main] TC_001_Login - URL is Launched Successfully
+[INFO ] 2023-02-21 13:17:32.665 [main] TC_001_Login - Entering username 
+[INFO ] 2023-02-21 13:17:32.771 [main] TC_001_Login - Enter Password
+[INFO ] 2023-02-21 13:17:32.865 [main] TC_001_Login - Submit button is clicked
+[INFO ] 2023-02-21 13:19:52.709 [main] TC_001_Login - url is open
+[INFO ] 2023-02-21 13:20:00.325 [main] TC_001_Login - URL is Launched Successfully
+[INFO ] 2023-02-21 13:20:00.356 [main] TC_001_Login - Entering username 
+[INFO ] 2023-02-21 13:20:00.456 [main] TC_001_Login - Enter Password
+[INFO ] 2023-02-21 13:20:00.572 [main] TC_001_Login - Submit button is clicked
+[INFO ] 2023-02-21 13:23:19.166 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:23:24.893 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:23:24.923 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:23:25.032 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:23:25.146 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:23:28.194 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:23:33.269 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 13:23:33.445 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 13:33:53.198 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:33:58.685 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:33:58.715 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:33:58.813 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:33:58.913 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:34:00.807 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:34:08.027 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 13:34:08.142 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 13:34:15.652 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:34:17.788 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:34:17.788 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:34:17.966 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:34:18.029 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:34:20.123 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:34:25.200 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 13:36:00.256 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:36:08.279 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:36:08.296 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:36:08.444 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:36:08.560 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:36:11.051 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:36:16.138 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 13:36:16.224 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 13:36:23.042 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:36:25.160 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:36:25.161 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:36:25.226 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:36:25.283 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:36:27.022 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:36:33.347 [main] TC_001_EditCustomer - Entering Customer id to Edit

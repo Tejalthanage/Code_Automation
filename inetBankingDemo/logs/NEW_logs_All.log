@@ -1,0 +1,74 @@
+[INFO ] 2023-02-21 13:40:47.679 [main] TC_002_CheckURLTest - url is launch of test case2
+[INFO ] 2023-02-21 13:40:55.662 [main] TC_002_CheckURLTest - browser launch successfully
+[INFO ] 2023-02-21 13:40:55.685 [main] TC_002_CheckURLTest - Test case pass
+[INFO ] 2023-02-21 13:40:58.546 [main] TC_001_Login - url is open
+[INFO ] 2023-02-21 13:41:03.672 [main] TC_001_Login - URL is Launched Successfully
+[INFO ] 2023-02-21 13:41:03.695 [main] TC_001_Login - Entering username 
+[INFO ] 2023-02-21 13:41:03.794 [main] TC_001_Login - Enter Password
+[INFO ] 2023-02-21 13:41:03.944 [main] TC_001_Login - Submit button is clicked
+[INFO ] 2023-02-21 13:41:06.049 [main] TC_001_Login - Test case pass
+[INFO ] 2023-02-21 13:41:08.574 [main] TC_004_AddCustpage_visibility_enable_test - url is open
+[INFO ] 2023-02-21 13:41:14.491 [main] TC_004_AddCustpage_visibility_enable_test - Enter username
+[INFO ] 2023-02-21 13:41:14.648 [main] TC_004_AddCustpage_visibility_enable_test - Enter Password
+[INFO ] 2023-02-21 13:41:14.757 [main] TC_004_AddCustpage_visibility_enable_test - click button
+[INFO ] 2023-02-21 13:41:17.176 [main] TC_004_AddCustpage_visibility_enable_test - url is open in Fuctional_addNewCustomer
+[INFO ] 2023-02-21 13:41:18.889 [main] TC_004_AddCustpage_visibility_enable_test - Enter username in Fuctional_addNewCustomer
+[INFO ] 2023-02-21 13:41:18.967 [main] TC_004_AddCustpage_visibility_enable_test - Enter Password in Fuctional_addNewCustomer
+[INFO ] 2023-02-21 13:41:19.099 [main] TC_004_AddCustpage_visibility_enable_test - click button of Fuctional_addNewCustomer
+[INFO ] 2023-02-21 13:41:25.032 [main] TC_004_AddCustpage_visibility_enable_test - Providing customer Details.....
+[INFO ] 2023-02-21 13:41:39.912 [main] TC_004_AddCustpage_visibility_enable_test - Test case is pass
+[INFO ] 2023-02-21 13:41:42.447 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:41:47.979 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:41:47.979 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:41:48.060 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:41:48.140 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:41:51.131 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:41:56.198 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 13:41:56.290 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 13:42:03.745 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 13:42:05.831 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 13:42:05.834 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 13:42:05.922 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 13:42:06.035 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 13:42:07.745 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 13:42:13.927 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 15:13:09.566 [main] TC_002_CheckURLTest - url is launch of test case2
+[INFO ] 2023-02-21 15:14:42.634 [main] TC_002_CheckURLTest - url is launch of test case2
+[INFO ] 2023-02-21 15:14:48.370 [main] TC_002_CheckURLTest - browser launch successfully
+[INFO ] 2023-02-21 15:14:48.389 [main] TC_002_CheckURLTest - Test case pass
+[INFO ] 2023-02-21 15:14:51.325 [main] TC_001_Login - url is open
+[INFO ] 2023-02-21 15:14:56.815 [main] TC_001_Login - URL is Launched Successfully
+[INFO ] 2023-02-21 15:14:56.841 [main] TC_001_Login - Entering username 
+[INFO ] 2023-02-21 15:14:56.922 [main] TC_001_Login - Enter Password
+[INFO ] 2023-02-21 15:14:56.999 [main] TC_001_Login - Submit button is clicked
+[INFO ] 2023-02-21 15:14:59.158 [main] TC_001_Login - Test case pass
+[INFO ] 2023-02-21 15:15:01.592 [main] TC_004_AddCustpage_visibility_enable_test - url is open
+[INFO ] 2023-02-21 15:15:06.801 [main] TC_004_AddCustpage_visibility_enable_test - Enter username
+[INFO ] 2023-02-21 15:15:06.883 [main] TC_004_AddCustpage_visibility_enable_test - Enter Password
+[INFO ] 2023-02-21 15:15:06.960 [main] TC_004_AddCustpage_visibility_enable_test - click button
+[INFO ] 2023-02-21 15:15:09.140 [main] TC_004_AddCustpage_visibility_enable_test - url is open in Fuctional_addNewCustomer
+[INFO ] 2023-02-21 15:15:10.880 [main] TC_004_AddCustpage_visibility_enable_test - Enter username in Fuctional_addNewCustomer
+[INFO ] 2023-02-21 15:15:10.963 [main] TC_004_AddCustpage_visibility_enable_test - Enter Password in Fuctional_addNewCustomer
+[INFO ] 2023-02-21 15:15:11.099 [main] TC_004_AddCustpage_visibility_enable_test - click button of Fuctional_addNewCustomer
+[INFO ] 2023-02-21 15:15:16.737 [main] TC_004_AddCustpage_visibility_enable_test - Providing customer Details.....
+[INFO ] 2023-02-21 15:15:31.883 [main] TC_004_AddCustpage_visibility_enable_test - Test case is pass
+[INFO ] 2023-02-21 15:15:34.392 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 15:15:40.046 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 15:15:40.048 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 15:15:40.132 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 15:15:40.277 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 15:15:42.117 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 15:15:47.253 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 15:15:47.355 [main] TC_001_EditCustomer - click on Submit
+[INFO ] 2023-02-21 15:15:54.970 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 15:15:57.298 [main] TC_001_EditCustomer - URL is Launched Successfully
+[INFO ] 2023-02-21 15:15:57.299 [main] TC_001_EditCustomer - Entering username 
+[INFO ] 2023-02-21 15:15:57.383 [main] TC_001_EditCustomer - Enter Password
+[INFO ] 2023-02-21 15:15:57.498 [main] TC_001_EditCustomer - Submit button is clicked
+[INFO ] 2023-02-21 15:15:59.302 [main] TC_001_EditCustomer - Click on Edit Link
+[INFO ] 2023-02-21 15:16:05.688 [main] TC_001_EditCustomer - Entering Customer id to Edit
+[INFO ] 2023-02-21 15:16:26.138 [main] TC_001_Login - url is open
+[INFO ] 2023-02-21 15:19:29.709 [main] TC_004_AddCustpage_visibility_enable_test - url is open
+[INFO ] 2023-02-21 15:22:29.727 [main] TC_004_AddCustpage_visibility_enable_test - url is open in Fuctional_addNewCustomer
+[INFO ] 2023-02-21 15:24:34.729 [main] TC_001_EditCustomer - url is open
+[INFO ] 2023-02-21 15:27:34.743 [main] TC_001_EditCustomer - url is open
