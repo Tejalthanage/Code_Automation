@@ -46,6 +46,7 @@ public class Get_And_Post {
 		post("/user").
 		then().
 		statusCode(201).log().all();
-		
+		System.out.println("This is today adding");
+		System.out.println("try to add");
 	}
 }
