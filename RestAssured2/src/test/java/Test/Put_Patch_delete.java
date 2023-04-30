@@ -33,6 +33,7 @@ public class Put_Patch_delete {
 		put("users/2").
 		then().
 		statusCode(200).log().all();
+		System.out.println("Today tejal adding");
 		
 	}
 
